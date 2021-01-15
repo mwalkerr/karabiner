@@ -1403,7 +1403,7 @@
                         ]
                     },
                     {
-                        "description": "Monroe's rules from yaml to json",
+                        "description": "Monroes rules from yaml to json",
                         "manipulators": [
                             {
                                 "conditions": [
